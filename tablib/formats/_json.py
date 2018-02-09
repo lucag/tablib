@@ -6,10 +6,10 @@ import decimal
 
 import tablib
 
-try:
-    import ujson as json
-except ImportError:
-    import json
+# try:
+#     import ujson as json
+# except ImportError:
+import json
 
 title = 'json'
 extensions = ('json', 'jsn')

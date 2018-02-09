@@ -6,6 +6,7 @@ MANIFEST
 # python skin
 *.pyc
 *.pyo
+*.egg-info/
 
 # osx noise
 .DS_Store
@@ -14,6 +15,7 @@ profile
 # pycharm noise
 .idea
 .idea/*
+*.iml
 
 # vi noise
 *.swp
